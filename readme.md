@@ -1,12 +1,8 @@
 # Glass Website
 
-## :link: https://glass-ui-website.netlify.app/
-
 # HOMEPAGE
 
 <img src='images/home.png'/>
-
-### :link: Learned from [Dev Ed](https://youtu.be/O7WbVj5apxU)
 
 ## Run Locally
 
